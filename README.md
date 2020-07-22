@@ -1,6 +1,6 @@
 Udacity Cloud Developer Nanodegree Project 2 
 
-# Udagram Image Filtering Microservice
+# Udagram Image Filtering Application 
 
 ## Github Repository
 https://github.com/aysunakarsu/udagram
@@ -15,7 +15,7 @@ https://github.com/aysunakarsu/udagram
 7. eb deploy
 
 ## EB endpoint
+http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/ 
 
-Dev: http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/ 
-
-Example: http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+## Example
+http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
