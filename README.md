@@ -1,9 +1,6 @@
-Udacity Cloud Developer Nanodegree Project 2 
-
+### Udacity Cloud Developer Nanodegree Project 2 
 # Udagram Image Filtering Application 
 
-## Github Repository
-https://github.com/aysunakarsu/udagram
 
 ## Local deployment
 1. npm i
@@ -14,7 +11,7 @@ https://github.com/aysunakarsu/udagram
 6. eb create 
 7. eb deploy
 
-## EB endpoint
+## Elastic Beanstalk endpoint
 http://image-filter-starter-code-dev222222.us-east-1.elasticbeanstalk.com/ 
 
 ## Example
